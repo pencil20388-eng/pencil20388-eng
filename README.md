@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey 👋 I'm penny
 
-<!--
-**pencil20388-eng/pencil20388-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content Lead at [AdsPower](https://www.adspower.net/) — the antidetect browser for multi-account management.
 
-Here are some ideas to get you started:
+I build open-source tools and skills that help people work smarter with AI and browser automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I'm working on
+
+- [stop-slop-zh](https://github.com/pencil20388-eng/stop-slop-zh) — Kill AI slop in Chinese writing. 干掉中文 AI 味
+- [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect) — Curated guide to antidetect browsers, fingerprinting & privacy
+- [awesome-adspower-automation](https://github.com/pencil20388-eng/awesome-adspower-automation) — Ready-to-run scripts for AdsPower browser automation
+- [adspower-skill](https://github.com/pencil20388-eng/adspower-skill) — Claude Code skill for AdsPower
+- [browser-automation-skills](https://github.com/pencil20388-eng/browser-automation-skills) — Playwright, Selenium, Puppeteer skills for AI agents
+
+### 🛠 Focus areas
+
+`browser automation` `antidetect` `AI writing quality` `Claude Code skills` `multi-account ops`
+
+### 📫 Find me
+
+- 🌐 [AdsPower](https://www.adspower.net/)
+- 𝕏 [@adspowercn](https://x.com/adspowercn)
