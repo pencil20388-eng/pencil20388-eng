@@ -1,22 +1,9 @@
-## Hey 👋 I'm penny
+## 这里是内容狗的实验田 🧪
 
-Content Lead at [AdsPower](https://www.adspower.net/) — the antidetect browser for multi-account management.
+白天在 [AdsPower](https://www.adspower.net/) 写中文内容，业余时间把脑子里的鬼点子丢到 GitHub 上看看会不会长出东西。
 
-I build open-source tools and skills that help people work smarter with AI and browser automation.
+做的事大多和老本行有关，AI 写作、反检测、浏览器自动化。一半是真觉得有用，一半是想顺便认识大佬 👋
 
-### 🔥 What I'm working on
+信奉一个原则，不同的平台值得喂不同的内容，所以这边和那边的我可能不太一样。
 
-- [stop-slop-zh](https://github.com/pencil20388-eng/stop-slop-zh) — Kill AI slop in Chinese writing. 干掉中文 AI 味
-- [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect) — Curated guide to antidetect browsers, fingerprinting & privacy
-- [awesome-adspower-automation](https://github.com/pencil20388-eng/awesome-adspower-automation) — Ready-to-run scripts for AdsPower browser automation
-- [adspower-skill](https://github.com/pencil20388-eng/adspower-skill) — Claude Code skill for AdsPower
-- [browser-automation-skills](https://github.com/pencil20388-eng/browser-automation-skills) — Playwright, Selenium, Puppeteer skills for AI agents
-
-### 🛠 Focus areas
-
-`browser automation` `antidetect` `AI writing quality` `Claude Code skills` `multi-account ops`
-
-### 📫 Find me
-
-- 🌐 [AdsPower](https://www.adspower.net/)
-- 𝕏 [@adspowercn](https://x.com/adspowercn)
+`AdsPower` · `anti-detect` · `AI 写作质检` · `Claude Code skills`
